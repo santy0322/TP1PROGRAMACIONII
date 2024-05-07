@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP1PROGRAMACIONII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+019b8b7fb9baa07de6a368e9fe9ed1e0c34e5af4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP1PROGRAMACIONII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP1PROGRAMACIONII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

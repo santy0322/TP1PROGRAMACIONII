@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "paDiJtfpswUL7fH+JmLhbuG/sH9ttsh7J1818WpuSnroDCDsJ/b6spXLYZVNekRdxC4nWu/tUMNI8HaDRmwCwg==",
+  "dgSpecHash": "cgJCubzUHsU2ybl+JQLfL3sCRnKW4eVg4/Mcx8N0/0wmLFYb+bwbhtzC7PEi1tE9LfLKIko8hw2XnwFy7cKDkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saant\\source\\repos\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

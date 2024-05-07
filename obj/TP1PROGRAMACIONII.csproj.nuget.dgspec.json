@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saant\\source\\repos\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saant\\source\\repos\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saant\\source\\repos\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj",
         "projectName": "TP1PROGRAMACIONII",
-        "projectPath": "C:\\Users\\saant\\source\\repos\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj",
-        "packagesPath": "C:\\Users\\saant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saant\\source\\repos\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\TP1PROGRAMACIONII.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\saant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

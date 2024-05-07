@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TP1PROGRAMACIONII
 {
-    public class Maquinas
+    internal class Terminal
     {
-
-
-
+        private long idTerminal;
+        private string Ubicacion;
+    }
 }

@@ -25,10 +25,20 @@ namespace TP1PROGRAMACIONII
         public int Telefono { get; set; }
         
         public string? CorreoElectronico { get; set;}
-    }
 
+        public List<Maquina> Maquinas;
 
-
-
+        public Cliente(string? razonSocial, string? direccion, string? codigoPostal, double cuit, string? condicionTributaria, string? nombre, string? apellido, int telefono, string? correoElectronico)
+        {
+            RazonSocial = razonSocial;
+            Direccion = direccion;
+            CodigoPostal = codigoPostal;
+            Cuit = cuit;
+            CondicionTributaria = condicionTributaria;
+            Nombre = nombre;
+            Apellido = apellido;
+            Telefono = telefono;
+            CorreoElectronico = correoElectronico;
+        }
     }
 }

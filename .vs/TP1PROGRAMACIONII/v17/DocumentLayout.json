@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|c:\\users\\usuario\\desktop\\tp1\\tp1programacionii\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|solutionrelative:alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|c:\\users\\usuario\\desktop\\tp1\\tp1programacionii\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|c:\\users\\usuario\\desktop\\tp1\\tp1programacionii\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|solutionrelative:maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|c:\\users\\usuario\\desktop\\tp1\\tp1programacionii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|c:\\users\\usuario\\desktop\\tp1\\tp1programacionii\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|solutionrelative:reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|c:\\users\\usuario\\desktop\\tp1\\tp1programacionii\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|c:\\users\\usuario\\desktop\\tp1\\tp1programacionii\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE42CB60-4E1E-41C5-95BD-680F3D4CC14B}|TP1PROGRAMACIONII.csproj|solutionrelative:terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Terminal.cs",
+              "RelativeDocumentMoniker": "Terminal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Terminal.cs",
+              "RelativeToolTip": "Terminal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:56:32.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Empleado.cs",
+              "RelativeToolTip": "Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:54:58.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Reservas.cs",
+              "RelativeDocumentMoniker": "Reservas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Reservas.cs",
+              "RelativeToolTip": "Reservas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:38:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:38:01.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maquina.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Maquina.cs",
+              "RelativeDocumentMoniker": "Maquina.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Maquina.cs",
+              "RelativeToolTip": "Maquina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:38:01.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvykAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:38:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Alquiler.cs",
+              "RelativeDocumentMoniker": "Alquiler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tp1\\TP1PROGRAMACIONII\\Alquiler.cs",
+              "RelativeToolTip": "Alquiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:37:57.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
